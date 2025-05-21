@@ -12,5 +12,7 @@ It includes:
 
 1. In terminal:
 
+[img](./screenshots/code.png)
+
 ```bash
 ./mvnw spring-boot:run
