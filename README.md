@@ -13,7 +13,7 @@ It includes:
 1. In terminal:
 
 ![img](./screenshots/code.png)
-![img](./screenshots/fronend.png)
+![img](./screenshots/frontend.png)
 
 ```bash
 ./mvnw spring-boot:run
